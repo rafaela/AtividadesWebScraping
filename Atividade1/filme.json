@@ -1,0 +1,608 @@
+[
+    {
+        "Arrecadação": "Arrecadação*",
+        "Ano": "Ano",
+        "Nome": "Filme",
+        "Colocação": " "
+    },
+    {
+        "Arrecadação": "2.777.2",
+        "Ano": "2009",
+        "Nome": "Avatar",
+        "Colocação": "1"
+    },
+    {
+        "Arrecadação": "2.624.9",
+        "Ano": "2019",
+        "Nome": "Vingadores: Ultimato",
+        "Colocação": "2"
+    },
+    {
+        "Arrecadação": "2.128.9",
+        "Ano": "1997",
+        "Nome": "Titanic",
+        "Colocação": "3"
+    },
+    {
+        "Arrecadação": "2.068.2",
+        "Ano": "2015",
+        "Nome": "Star Wars: Episódio VII - O Despertar da Força",
+        "Colocação": "4"
+    },
+    {
+        "Arrecadação": "2.048.4",
+        "Ano": "2018",
+        "Nome": "Vingadores: Guerra Infinita",
+        "Colocação": "5"
+    },
+    {
+        "Arrecadação": "1.671.7",
+        "Ano": "2015",
+        "Nome": "Jurassic World: O Mundo dos Dinossauros",
+        "Colocação": "6"
+    },
+    {
+        "Arrecadação": "1.518.8",
+        "Ano": "2012",
+        "Nome": "Os Vingadores",
+        "Colocação": "7"
+    },
+    {
+        "Arrecadação": "1.516.0",
+        "Ano": "2015",
+        "Nome": "Velozes e Furiosos 7",
+        "Colocação": "8"
+    },
+    {
+        "Arrecadação": "1.405.4",
+        "Ano": "2015",
+        "Nome": "Vingadores: Era de Ultron",
+        "Colocação": "9"
+    },
+    {
+        "Arrecadação": "1.346.9",
+        "Ano": "2018",
+        "Nome": "Pantera Negra",
+        "Colocação": "10"
+    },
+    {
+        "Arrecadação": "1.341.5",
+        "Ano": "2011",
+        "Nome": "Harry Potter e As Relíquias da Morte: Parte 2",
+        "Colocação": "11"
+    },
+    {
+        "Arrecadação": "1.332.5",
+        "Ano": "2017",
+        "Nome": "Star Wars: Episódio VIII - Os Últimos Jedi",
+        "Colocação": "12"
+    },
+    {
+        "Arrecadação": "1.309.5",
+        "Ano": "2018",
+        "Nome": "Jurassic World: Reino Ameaçado",
+        "Colocação": "13"
+    },
+    {
+        "Arrecadação": "1.276.4",
+        "Ano": "2013",
+        "Nome": "Frozen: Uma Aventura Congelante",
+        "Colocação": "14"
+    },
+    {
+        "Arrecadação": "1.263.5",
+        "Ano": "2017",
+        "Nome": "A Bela e A Fera",
+        "Colocação": "15"
+    },
+    {
+        "Arrecadação": "1.242.8",
+        "Ano": "2018",
+        "Nome": "Os Incríveis 2",
+        "Colocação": "16"
+    },
+    {
+        "Arrecadação": "1.236.0",
+        "Ano": "2017",
+        "Nome": "Velozes e Furiosos 8",
+        "Colocação": "17"
+    },
+    {
+        "Arrecadação": "1.214.8",
+        "Ano": "2013",
+        "Nome": "Homem de Ferro 3",
+        "Colocação": "18"
+    },
+    {
+        "Arrecadação": "1.159.4",
+        "Ano": "2015",
+        "Nome": "Minions",
+        "Colocação": "19"
+    },
+    {
+        "Arrecadação": "1.153.3",
+        "Ano": "2016",
+        "Nome": "Capitão América: Guerra Civil",
+        "Colocação": "20"
+    },
+    {
+        "Arrecadação": "1.147.8",
+        "Ano": "2018",
+        "Nome": "Aquaman",
+        "Colocação": "21"
+    },
+    {
+        "Arrecadação": "1.126.6",
+        "Ano": "2019",
+        "Nome": "Capitã Marvel",
+        "Colocação": "22"
+    },
+    {
+        "Arrecadação": "1.123.8",
+        "Ano": "2011",
+        "Nome": "Transformers: O Lado Oculto da Lua",
+        "Colocação": "23"
+    },
+    {
+        "Arrecadação": "1.119.1",
+        "Ano": "2003",
+        "Nome": "O Senhor dos Anéis: O Retorno do Rei",
+        "Colocação": "24"
+    },
+    {
+        "Arrecadação": "1.108.6",
+        "Ano": "2012",
+        "Nome": "007: Operação Skyfall",
+        "Colocação": "25"
+    },
+    {
+        "Arrecadação": "1.104.0",
+        "Ano": "2014",
+        "Nome": "Transformers: A Era da Extinção",
+        "Colocação": "26"
+    },
+    {
+        "Arrecadação": "1.084.9",
+        "Ano": "2012",
+        "Nome": "Batman - O Cavaleiro das Trevas Ressurge",
+        "Colocação": "27"
+    },
+    {
+        "Arrecadação": "1.066.2",
+        "Ano": "2006",
+        "Nome": "Piratas do Caribe: O Baú da Morte",
+        "Colocação": "28"
+    },
+    {
+        "Arrecadação": "1.063.2",
+        "Ano": "2010",
+        "Nome": "Toy Story 3",
+        "Colocação": "29"
+    },
+    {
+        "Arrecadação": "1.056.1",
+        "Ano": "2016",
+        "Nome": "Rogue One: Uma História Star Wars",
+        "Colocação": "30"
+    },
+    {
+        "Arrecadação": "1.045.7",
+        "Ano": "2011",
+        "Nome": "Piratas do Caribe: Navegando em Águas Misteriosas",
+        "Colocação": "31"
+    },
+    {
+        "Arrecadação": "1.034.8",
+        "Ano": "2017",
+        "Nome": "Meu Malvado Favorito 3",
+        "Colocação": "32"
+    },
+    {
+        "Arrecadação": "1.028.6",
+        "Ano": "2016",
+        "Nome": "Procurando Dory",
+        "Colocação": "33"
+    },
+    {
+        "Arrecadação": "1.024.3",
+        "Ano": "2010",
+        "Nome": "Alice no País das Maravilhas",
+        "Colocação": "34"
+    },
+    {
+        "Arrecadação": "1.023.8",
+        "Ano": "2016",
+        "Nome": "Zootopia",
+        "Colocação": "35"
+    },
+    {
+        "Arrecadação": "1.017.0",
+        "Ano": "2012",
+        "Nome": "O Hobbit: Uma Jornada Inesperada",
+        "Colocação": "36"
+    },
+    {
+        "Arrecadação": "1.003.0",
+        "Ano": "2008",
+        "Nome": "Batman - O Cavaleiro das Trevas",
+        "Colocação": "37"
+    },
+    {
+        "Arrecadação": "974.8",
+        "Ano": "2001",
+        "Nome": "Harry Potter e A Pedra Filosofal",
+        "Colocação": "38"
+    },
+    {
+        "Arrecadação": "970.8",
+        "Ano": "2013",
+        "Nome": "Meu Malvado Favorito 2",
+        "Colocação": "39"
+    },
+    {
+        "Arrecadação": "966.5",
+        "Ano": "2016",
+        "Nome": "Mogli: O Menino Lobo",
+        "Colocação": "40"
+    },
+    {
+        "Arrecadação": "963.4",
+        "Ano": "2007",
+        "Nome": "Piratas do Caribe: No Fim do Mundo",
+        "Colocação": "41"
+    },
+    {
+        "Arrecadação": "962.1",
+        "Ano": "2017",
+        "Nome": "Jumanji: Bem-vindo à Selva",
+        "Colocação": "42"
+    },
+    {
+        "Arrecadação": "960.3",
+        "Ano": "2010",
+        "Nome": "Harry Potter e As Relíquias da Morte: Parte 1",
+        "Colocação": "43"
+    },
+    {
+        "Arrecadação": "958.4",
+        "Ano": "2013",
+        "Nome": "O Hobbit: A Desolação de Smaug",
+        "Colocação": "44"
+    },
+    {
+        "Arrecadação": "956.0",
+        "Ano": "2014",
+        "Nome": "O Hobbit: A Batalha dos Cinco Exércitos",
+        "Colocação": "45"
+    },
+    {
+        "Arrecadação": "939.9",
+        "Ano": "2007",
+        "Nome": "Harry Potter e A Ordem da Fênix",
+        "Colocação": "46"
+    },
+    {
+        "Arrecadação": "934.4",
+        "Ano": "2009",
+        "Nome": "Harry Potter e O Enigma do Príncipe",
+        "Colocação": "47"
+    },
+    {
+        "Arrecadação": "925.6",
+        "Ano": "1999",
+        "Nome": "Star Wars: Episódio I - A Ameaça Fantasma",
+        "Colocação": "48"
+    },
+    {
+        "Arrecadação": "923.3",
+        "Ano": "2002",
+        "Nome": "O Senhor dos Anéis: As Duas Torres",
+        "Colocação": "49"
+    },
+    {
+        "Arrecadação": "919.8",
+        "Ano": "1993",
+        "Nome": "Parque dos Dinossauros",
+        "Colocação": "50"
+    },
+    {
+        "Arrecadação": "919.8",
+        "Ano": "2004",
+        "Nome": "Shrek 2",
+        "Colocação": "51"
+    },
+    {
+        "Arrecadação": "903.1",
+        "Ano": "2018",
+        "Nome": "Bohemian Rhapsody",
+        "Colocação": "52"
+    },
+    {
+        "Arrecadação": "896.9",
+        "Ano": "2005",
+        "Nome": "Harry Potter e O Cálice de Fogo",
+        "Colocação": "53"
+    },
+    {
+        "Arrecadação": "895.6",
+        "Ano": "2003",
+        "Nome": "Procurando Nemo",
+        "Colocação": "54"
+    },
+    {
+        "Arrecadação": "890.8",
+        "Ano": "2007",
+        "Nome": "Homem-Aranha 3",
+        "Colocação": "55"
+    },
+    {
+        "Arrecadação": "886.7",
+        "Ano": "2009",
+        "Nome": "A Era do Gelo 3",
+        "Colocação": "56"
+    },
+    {
+        "Arrecadação": "880.7",
+        "Ano": "2015",
+        "Nome": "007 Contra Spectre",
+        "Colocação": "57"
+    },
+    {
+        "Arrecadação": "880.2",
+        "Ano": "2017",
+        "Nome": "Homem-Aranha: De Volta ao Lar",
+        "Colocação": "58"
+    },
+    {
+        "Arrecadação": "879.0",
+        "Ano": "2002",
+        "Nome": "Harry Potter e A Câmara Secreta",
+        "Colocação": "59"
+    },
+    {
+        "Arrecadação": "877.2",
+        "Ano": "2012",
+        "Nome": "A Era do Gelo 4",
+        "Colocação": "60"
+    },
+    {
+        "Arrecadação": "875.5",
+        "Ano": "2016",
+        "Nome": "Pets: A Vida Secreta dos Bichos",
+        "Colocação": "61"
+    },
+    {
+        "Arrecadação": "873.3",
+        "Ano": "2016",
+        "Nome": "Batman vs Superman: A Origem da Justiça",
+        "Colocação": "62"
+    },
+    {
+        "Arrecadação": "870.3",
+        "Ano": "2017",
+        "Nome": "Wolf Warrior II",
+        "Colocação": "63"
+    },
+    {
+        "Arrecadação": "869.4",
+        "Ano": "2001",
+        "Nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "Colocação": "64"
+    },
+    {
+        "Arrecadação": "865.0",
+        "Ano": "2013",
+        "Nome": "Jogos Vorazes: Em Chamas",
+        "Colocação": "65"
+    },
+    {
+        "Arrecadação": "863.7",
+        "Ano": "2017",
+        "Nome": "Guardiões da Galáxia Vol. 2",
+        "Colocação": "66"
+    },
+    {
+        "Arrecadação": "857.6",
+        "Ano": "2015",
+        "Nome": "Divertida Mente",
+        "Colocação": "67"
+    },
+    {
+        "Arrecadação": "855.0",
+        "Ano": "2018",
+        "Nome": "Venom",
+        "Colocação": "68"
+    },
+    {
+        "Arrecadação": "854.0",
+        "Ano": "2017",
+        "Nome": "Thor: Ragnarok",
+        "Colocação": "69"
+    },
+    {
+        "Arrecadação": "848.8",
+        "Ano": "2005",
+        "Nome": "Star Wars: Episódio III - A Vingança dos Sith",
+        "Colocação": "70"
+    },
+    {
+        "Arrecadação": "836.3",
+        "Ano": "2009",
+        "Nome": "Transformers: A Vingança dos Derrotados",
+        "Colocação": "71"
+    },
+    {
+        "Arrecadação": "829.7",
+        "Ano": "2012",
+        "Nome": "A Saga Crepúsculo: Amanhecer - Parte 2",
+        "Colocação": "72"
+    },
+    {
+        "Arrecadação": "825.6",
+        "Ano": "2010",
+        "Nome": "A Origem",
+        "Colocação": "73"
+    },
+    {
+        "Arrecadação": "821.9",
+        "Ano": "2017",
+        "Nome": "Mulher-Maravilha",
+        "Colocação": "74"
+    },
+    {
+        "Arrecadação": "821.7",
+        "Ano": "2002",
+        "Nome": "Homem-Aranha",
+        "Colocação": "75"
+    },
+    {
+        "Arrecadação": "814.0",
+        "Ano": "2016",
+        "Nome": "Animais Fantásticos e Onde Habitam",
+        "Colocação": "76"
+    },
+    {
+        "Arrecadação": "810.4",
+        "Ano": "1996",
+        "Nome": "Independence Day",
+        "Colocação": "77"
+    },
+    {
+        "Arrecadação": "807.1",
+        "Ano": "2017",
+        "Nome": "Viva - A Vida é Uma Festa",
+        "Colocação": "78"
+    },
+    {
+        "Arrecadação": "798.9",
+        "Ano": "2007",
+        "Nome": "Shrek Terceiro",
+        "Colocação": "79"
+    },
+    {
+        "Arrecadação": "796.6",
+        "Ano": "2004",
+        "Nome": "Harry Potter e O Prisioneiro de Azkaban",
+        "Colocação": "80"
+    },
+    {
+        "Arrecadação": "794.9",
+        "Ano": "2017",
+        "Nome": "Piratas do Caribe: A Vingança de Salazar",
+        "Colocação": "81"
+    },
+    {
+        "Arrecadação": "792.9",
+        "Ano": "1982",
+        "Nome": "E.T. - O Extraterrestre",
+        "Colocação": "82"
+    },
+    {
+        "Arrecadação": "791.1",
+        "Ano": "2018",
+        "Nome": "Missão: Impossível - Efeito Fallout",
+        "Colocação": "83"
+    },
+    {
+        "Arrecadação": "788.7",
+        "Ano": "2013",
+        "Nome": "Velozes & Furiosos 6",
+        "Colocação": "84"
+    },
+    {
+        "Arrecadação": "786.6",
+        "Ano": "2008",
+        "Nome": "Indiana Jones e O Reino da Caveira de Cristal",
+        "Colocação": "85"
+    },
+    {
+        "Arrecadação": "783.8",
+        "Ano": "2004",
+        "Nome": "Homem-Aranha 2",
+        "Colocação": "86"
+    },
+    {
+        "Arrecadação": "783.1",
+        "Ano": "2016",
+        "Nome": "Deadpool",
+        "Colocação": "87"
+    },
+    {
+        "Arrecadação": "778.9",
+        "Ano": "2018",
+        "Nome": "Deadpool 2",
+        "Colocação": "88"
+    },
+    {
+        "Arrecadação": "775.4",
+        "Ano": "1977",
+        "Nome": "Guerra nas Estrelas",
+        "Colocação": "89"
+    },
+    {
+        "Arrecadação": "773.3",
+        "Ano": "2014",
+        "Nome": "Guardiões da Galáxia",
+        "Colocação": "90"
+    },
+    {
+        "Arrecadação": "769.7",
+        "Ano": "2009",
+        "Nome": "2012",
+        "Colocação": "91"
+    },
+    {
+        "Arrecadação": "766.8",
+        "Ano": "1994",
+        "Nome": "O Rei Leão",
+        "Colocação": "92"
+    },
+    {
+        "Arrecadação": "758.5",
+        "Ano": "2014",
+        "Nome": "Malévola",
+        "Colocação": "93"
+    },
+    {
+        "Arrecadação": "758.2",
+        "Ano": "2006",
+        "Nome": "O Código Da Vinci",
+        "Colocação": "94"
+    },
+    {
+        "Arrecadação": "757.9",
+        "Ano": "2012",
+        "Nome": "O Espetacular Homem-Aranha",
+        "Colocação": "95"
+    },
+    {
+        "Arrecadação": "755.3",
+        "Ano": "2014",
+        "Nome": "Jogos Vorazes: A Esperança - Parte 1",
+        "Colocação": "96"
+    },
+    {
+        "Arrecadação": "752.6",
+        "Ano": "2010",
+        "Nome": "Shrek Para Sempre",
+        "Colocação": "97"
+    },
+    {
+        "Arrecadação": "747.8",
+        "Ano": "2014",
+        "Nome": "X-Men: Dias de Um Futuro Esquecido",
+        "Colocação": "98"
+    },
+    {
+        "Arrecadação": "746.9",
+        "Ano": "2012",
+        "Nome": "Madagascar 3: Os Procurados",
+        "Colocação": "99"
+    },
+    {
+        "Arrecadação": "745.6",
+        "Ano": "2016",
+        "Nome": "Esquadrão Suicida",
+        "Colocação": "100"
+    }
+]
